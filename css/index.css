@@ -4368,11 +4368,11 @@ figure.highlight pre .javascript .function {
   }
 }
 #page-header.post-bg {
-  height: 200px;
+  height: 300px;
 }
 @media screen and (max-width: 768px) {
   #page-header.post-bg {
-    height: 180px;
+    height: 300px;
   }
 }
 #page-header #post-info {
